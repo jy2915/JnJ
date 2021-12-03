@@ -1,0 +1,11 @@
+Company,Market cap (million),Relative market share,# docs of data usage,# positive,# neutral,# negative
+J&J,416.16,21.66%,1369,21,1335,13
+Pfizer,306.91,15.97%,3233,175,2939,119
+Merck,188.03,9.78%,908,40,848,20
+Moderna,125.94,6.55%,880,25,825,30
+AstraZeneca,128.8,6.70%,3280,164,3074,42
+AbbVie,204.92,10.66%,371,7,358,6
+Bristol Myers Squibb,121.97,6.35%,630,15,608,7
+Eli Lilly,238.32,12.40%,855,23,822,10
+GlaxoSmithKline,77.55,4.04%,1098,35,1043,20
+Amgen,113.1,5.89%,1169,9,1157,3
